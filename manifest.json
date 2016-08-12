@@ -10,5 +10,9 @@
 			"js": ["jquery-3.1.0.slim.min.js", "nlp_compromise.min.js", "notOSSP.js"]
 		}
 	],
+	"icons": {
+		"128": "icon-128.png",
+		"48": "icon-48.png"
+	},
 	"homepage_url": "https://github.com/kz26/NotOSSP"
 }
