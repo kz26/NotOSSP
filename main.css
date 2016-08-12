@@ -1,0 +1,16 @@
+.not-ossp-warning {
+	color: red;
+	font-weight: bold;
+	animation: not-ossp-blink 1s steps(5, start) infinite;
+}
+
+@keyframes not-ossp-blink {
+  to {
+    visibility: hidden;
+  }
+}
+
+.not-ossp-text {
+	color: gray;
+	text-decoration: line-through;
+}
